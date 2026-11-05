@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_fig"
+version = "0.1.0"
+edition = "2021"
+description = "Vector illustration and figure creation for SigmaOS — SVG model, path operations, and export"
+
+[lib]
+name = "sigmaos_craft_fig"
+path = "src/lib.rs"

@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-craft-fig"
+tier = 5
+stability = "scaffold"
+language = "rust"
+description = "Vector illustration and figure creation for SigmaOS — SVG model, path operations, and export"
+upstream = ["https://github.com/inkscape/inkscape"]
+
+[contract]
+provides = ["vector-illustration", "svg-paths"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"
