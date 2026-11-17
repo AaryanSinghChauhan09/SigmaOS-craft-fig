@@ -3,7 +3,7 @@ name = "SigmaOS-craft-fig"
 tier = 5
 stability = "scaffold"
 language = "rust"
-description = "Vector illustration and figure creation for SigmaOS — SVG model, path operations, and export"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = ["https://github.com/inkscape/inkscape"]
 
 [contract]
