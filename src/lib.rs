@@ -3,6 +3,9 @@
 //! Real implementation: shapes (rect, circle, path), groups, layers, transforms,
 //! stroke/fill styles, and validation. Replaces the 22-line stub.
 
+/// Diagram/figure module.
+pub mod sigmafig;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
